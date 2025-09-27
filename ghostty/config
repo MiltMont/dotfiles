@@ -1,0 +1,10 @@
+theme=Adventure
+bold-is-bright=true
+background-opacity=0.8
+shell-integration=zsh
+font-size=15
+
+keybind=global:ctrl+enter=toggle_quick_terminal
+quick-terminal-position=bottom
+gtk-titlebar=false
+
